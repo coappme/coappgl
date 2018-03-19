@@ -3,12 +3,12 @@
 	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
 	<modelVersion>4.0.0</modelVersion>
 
-	<groupId>com.demospringbootsecurity</groupId>
-	<artifactId>demo</artifactId>
+	<groupId>com.co.app.gl</groupId>
+	<artifactId>coappgl</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<packaging>jar</packaging>
 
-	<name>demo</name>
+	<name>coapp</name>
 	<description>Demo project for Spring Boot</description>
 
 	<parent>

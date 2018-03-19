@@ -1,4 +1,4 @@
-package com.demospringbootsecurity.demo.domain;
+package com.co.app.gl.domain;
 
 import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.RequestMapping;

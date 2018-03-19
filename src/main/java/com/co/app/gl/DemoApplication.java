@@ -1,4 +1,4 @@
-package com.demospringbootsecurity.demo;
+package com.co.app.gl;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.EnableAutoConfiguration;
