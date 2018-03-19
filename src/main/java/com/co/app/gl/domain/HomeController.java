@@ -9,7 +9,7 @@ Create By: Ron Rith
 Create Date: 2/15/2018
 */
 @Controller
-public class HelloController {
+public class HomeController {
     @RequestMapping(value = {"/home"}, method = RequestMethod.GET)
     private String showHome() {
         return "home";
